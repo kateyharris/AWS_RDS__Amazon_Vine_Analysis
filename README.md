@@ -8,6 +8,10 @@ In this project there are approximately 50 datasets. Each one contains reviews o
 ## Results
 
 - **Deliverable 1: Perform ETL on Amazon Product Reviews**
+- ![Snap6](https://user-images.githubusercontent.com/90797036/150045987-0398b142-bedc-4321-b882-528acc0c1d34.png)
+
 - **Deliverable 2: Determine Bias of Vine Reviews**
+![Snap14](https://user-images.githubusercontent.com/90797036/150045833-a9183fba-7990-4644-aaa8-b8db3c7e95b5.png)
 
 ## Summary
+state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.

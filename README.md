@@ -7,4 +7,7 @@ In this project there are approximately 50 datasets. Each one contains reviews o
 
 ## Results
 
+- **Deliverable 1: Perform ETL on Amazon Product Reviews**
+- **Deliverable 2: Determine Bias of Vine Reviews**
+
 ## Summary
